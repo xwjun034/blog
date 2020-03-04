@@ -2,7 +2,7 @@
     <div class="slidebar">
       <div class="headimg" :style="{background:headimg}"></div>
       <h4 class="blog-name">XUWENJUN BLOG</h4>
-      <p class="blog-yu">生活的点滴 心中的美好</p>
+      <p class="blog-yu">生活的点滴 美好生活</p>
       <p class="blog-fot">xwjun by 1258448428@qq.com</p>
     </div>
 </template>
